@@ -31,12 +31,12 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://Shckwav.github.io/" # the base hostname & protocol for your site
 twitter_username: Shckwav
 github_username:  Shckwav
-css: "cyan"
+css: "red"
 scroll-cursor: "#00BCD4"
 scroll-rail: "#0097A7"
 
 # Build settings
 markdown: kramdown
 highlighter: pygments
-lsi: false
-safe: false
+lsi: true
+safe: true
