@@ -1,7 +1,7 @@
-Material HTML5 Template (https://naveenshaji.github.io/material)
+Shockwave via GitHub (https://shckwav.github.io)
 The MIT License (MIT)
 
-Copyright (c) 2015 Naveen Shaji
+Copyright (c) 2015 Shockwave (Shckwav)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
