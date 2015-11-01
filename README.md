@@ -1,6 +1,6 @@
-#Material
+#Shockwave Hub v0.2
 ### Work In Progress.
 
-Take a sneak peek [here](http://naveenshaji.github.io/material)
+Website is currently live hosted [here](http://shckwav.github.io)
 
-Material is a website/blog frontend based on Material Design.
+Website based on frontend on Material Design.
